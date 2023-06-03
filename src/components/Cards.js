@@ -86,16 +86,16 @@ function Cards() {
             >
               <div className="bg-white py-2 collapse-inner rounded">
                 <h6 className="collapse-header">Custom Utilities:</h6>
-                <Link to="/colors" classNameName="collapse-item active">
+                <Link to="/colors" className="collapse-item active">
                   Colors
                 </Link>
-                <Link to="/borders" classNameName="collapse-item ">
+                <Link to="/borders" className="collapse-item ">
                   Borders
                 </Link>
-                <Link to="/animations" classNameName="collapse-item ">
+                <Link to="/animations" className="collapse-item ">
                   Animations
                 </Link>
-                <Link to="/other" classNameName="collapse-item ">
+                <Link to="/other" className="collapse-item ">
                   Other
                 </Link>
               </div>
